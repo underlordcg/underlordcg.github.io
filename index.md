@@ -10,12 +10,12 @@ the forest, I began to hear a multitude of angelic voices in the distance.
 Suddenly, an eagle surrounded by a ring of flaming eyeballs descended from the
 sky and hovered before me. With a thunderous voice, it spoke:
 
-_"I have an idea for a card game."_
+_"I have an idea for a game."_
 
-It then described its idea to me - a card game both simple and sublime. The
-eagle told me that if I made this game, I would go to Valhalla when I died and
-feast with my ancestors for all eternity. Then it flew away into the heavens
-whence it came.
+It then described its idea to me - a card game both simple and sublime.
+The eagle told me that if I made this game, I would go to Valhalla when
+I died and feast with my ancestors for eternity. Then it flew away into
+the heavens whence it came.
 
 ## This is the game that the eagle described to me.
 
