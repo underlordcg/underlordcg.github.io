@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Underlord
-tagline: An online card game of bluffing and strategy.
+tagline: Asymmetric decks · Hidden information · Masochism
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Underlord is based around two ideas: you don't know exactly what your opponent is
