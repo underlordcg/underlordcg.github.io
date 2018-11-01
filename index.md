@@ -48,7 +48,10 @@ has done - provided you can guess what it is.
 There's a playstyle for everyone in Underlord. Perhaps you would enjoy
 playing the Thieves, with their ability to steal face-down cards by
 guessing what they are. Or possibly the Mariners, who can flood the
-battlefield to play powerful Aquatic cards.
+battlefield to play powerful Aquatic cards. Or maybe you have an
+interesting idea for a deck that isn't yet in the game; in that case, you
+can suggest it on the [GitHub
+page.](https://github.com/hpoggie/underlord-server)
 
 ## Intrigued?
 
