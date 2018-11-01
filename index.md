@@ -19,7 +19,7 @@ the heavens whence it came.
 
 ## Thaumic Pugilism
 
-![]({{site.url}}/assets/ul_frame_alt.png)
+![]({{site.url}}/assets/screen1.png)
 
 Underlord is a two player game where you play a wizard dueling another
 wizard. Your spells and magical powers are represented by cards. The goal
@@ -28,7 +28,7 @@ known as units.
 
 ## Masochism
 
-![]({{site.url}}/assets/screen1.png)
+![]({{site.url}}/assets/screen2.png)
 
 As you take damage from your opponent's attacks, you have more mana on
 your turn, which allows you to play more cards. The closer you are to
@@ -37,7 +37,7 @@ are always closer to losing.
 
 ## Hidden Information
 
-![]({{site.url}}/assets/screen2.png)
+![]({{site.url}}/assets/screen3.png)
 
 Cards are played face-down, so your opponent doesn't know what you played.
 Most of the time, you have a chance to try and disrupt what your opponent
