@@ -52,7 +52,12 @@ battlefield to play powerful Aquatic cards.
 
 ## Intrigued?
 
-If you want to play this game, there will be links to executables here
-soon™. Eventually you will be able to download the source code from GitHub
-when the game is made open-source. The plan is to release it under the GPL
-and charge for server time.
+
+Want to play the game? [Get the
+client.](https://github.com/hpoggie/underlord-client/releases/latest)
+
+Want to work on the client? You can find the client repo
+[here.](https://github.com/hpoggie/underlord-client)
+
+Want to run your own server / work on the server? You can find the server
+repo [here.](https://github.com/hpoggie/underlord-server)
