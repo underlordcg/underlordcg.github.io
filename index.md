@@ -56,12 +56,3 @@ If you want to play this game, there will be links to executables here
 soon™. Eventually you will be able to download the source code from GitHub
 when the game is made open-source. The plan is to release it under the GPL
 and charge for server time.
-
-If, in the meantime, you would enjoy reading about the misadventures of
-a procrastinating game developer, why not investigate some of these
-
-# Blog Posts
-
-{% for post in site.posts %}
-[{{ post.title }}]({{ post.url }})
-{% endfor %}
