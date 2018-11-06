@@ -26,7 +26,7 @@ wizard. Your spells and magical powers are represented by cards. The goal
 of the game is to defeat your opponent by attacking them with creatures
 known as units.
 
-## Masochism
+## Damage is power
 
 ![]({{site.url}}/assets/screen2.png)
 
