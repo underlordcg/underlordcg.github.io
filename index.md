@@ -64,3 +64,7 @@ Want to work on the client? You can find the client repo
 
 Want to run your own server / work on the server? You can find the server
 repo [here.](https://github.com/hpoggie/underlord-server)
+
+## Site Credits
+
+Logo: Adapted from Poker Hand icon by Lorc under CC-BY-3.0
