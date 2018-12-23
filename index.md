@@ -53,6 +53,8 @@ interesting idea for a deck that isn't yet in the game; in that case, you
 can suggest it on the [GitHub
 page.](https://github.com/hpoggie/underlord-server)
 
+Read more about the factions [here]({{ site.baseurl }}{% post_url 2018-12-23-factions %}).
+
 ## Intrigued?
 
 
