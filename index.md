@@ -3,21 +3,7 @@ layout: splash
 title: Underlord
 ---
 
-# Origin
-
-In late 2016, I decided to take a walk in the woods. As I ventured deeper into
-the forest, I began to hear a multitude of angelic voices in the distance.
-Suddenly, an eagle surrounded by a ring of flaming eyeballs descended from the
-sky and hovered before me. With a thunderous voice, it spoke:
-
-_"I have an idea for a game."_
-
-It then described its idea to me - a card game both simple and sublime.
-The eagle told me that if I made this game, I would go to Valhalla when
-I died and feast with my ancestors for eternity. Then it flew away into
-the heavens whence it came.
-
-## Thaumic Pugilism
+# Thaumic Pugilism
 
 ![]({{site.url}}/assets/screen1.png)
 
